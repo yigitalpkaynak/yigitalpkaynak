@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigitalpkaynak&label=Profile%20views&color=0e75b6&style=flat" alt="yigitalpkaynak" /> </p>
 
-- 🌱 I’m currently learning **.NET, Angular, SQL**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **.NET, Angular, SQL**
 
